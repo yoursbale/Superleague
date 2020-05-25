@@ -1,4 +1,5 @@
 for number in range(11):
-    print(number,end=' ')
+    if (number!=0):
+        print(number,end=' ')
 
 
